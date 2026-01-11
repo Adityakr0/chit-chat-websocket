@@ -12,14 +12,6 @@ It enables **room-based messaging**, **instant communication**, and a **bright n
 - 🔒 Lightweight and fast Node.js backend  
 - 📱 Fully responsive frontend  
 
----
-## 📸 Screenshots
-
-### 🔐 Join Chat Screen
-![Join Chat Screen](./Screenshot%202026-01-12%20024917.png)
-
-### 💬 Chat Interface
-![Chat Interface](./Screenshot%202026-01-12%20025145.png)
 
 ## 🛠️ Tech Stack
 
